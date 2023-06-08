@@ -1,1 +1,1 @@
-logout2, main1, issue_test
+logout2, main1, issue_test, issue_test2
